@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'I am very satisfied with the gym! The facilities are great, the instructors are attentive and the equipment is of good quality.',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:'I loved the friendly atmosphere and well maintained gym equipment, I cant wait to come back and keep training.',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
