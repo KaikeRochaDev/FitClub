@@ -17,11 +17,11 @@ const Testimonials = () => {
     <div className="testimonials" id='testimonials'>
         <div className="left-t">
             <span>
-                Testimonials
+                Depoimentos
             </span>
 
-            <span className='stroke-text'>What they</span>
-            <span>say about us</span>
+            <span className='stroke-text'>O que eles</span>
+            <span>dizem sobre nós</span>
 
             <motion.span
                 key={selected}

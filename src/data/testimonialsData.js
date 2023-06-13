@@ -6,20 +6,20 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
-    status : 'ENTREPRENEUR'
+      "Fiz a escolha certa ao escolher o Fitclub e ao escolher o plano e programa certo já alcancei meu corpo ideal!",
+    name: 'MATHEUS FERREIRA',
+    status : 'EMPREENDEDOR'
   },
   {
     image: image2,
-    review: 'I am very satisfied with the gym! The facilities are great, the instructors are attentive and the equipment is of good quality.',
-    name: 'JOHN KEVIN',
-    status: 'COACH'
+    review: 'Estou muito satisfeito com a academia! As instalações são ótimas, os instrutores são atenciosos e os equipamentos são de boa qualidade.',
+    name: 'JOÃO MONTEIRO',
+    status: 'TREINADOR'
   },
   {
     image : image3,
-    review:'I loved the friendly atmosphere and well maintained gym equipment, I cant wait to come back and keep training.',
-    name: 'FRANKLIN',
-    status: "CUSTOMER"
+    review:'Adorei o ambiente amigável e os equipamentos de ginástica bem conservados, mal posso esperar para voltar e continuar treinando.',
+    name: 'ROGÉRIO VIDAL',
+    status: "CLIENTE"
   }
 ];

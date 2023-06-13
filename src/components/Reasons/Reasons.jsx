@@ -24,38 +24,38 @@ const Reasons = () => {
         </div>
 
         <div className="right-r">
-            <span>some reasons</span>
+            <span>Algumas razões</span>
             <div>
                 <span className='stroke-text'>
-                    why
+                    Por que
                 </span>
 
-                <span> choose us?</span>
+                <span> confiar em nós?</span>
             </div>
 
             <div className='details-r'>
                 <div>
                     <img src={tick} alt="" />
-                    <span>OVER 140+ EXPERT COACHES</span>
+                    <span>MAIS DE 140+ TREINADORES ESPECIALIZADOS</span>
                 </div>
 
                 <div>
                     <img src={tick} alt="" />
-                    <span>TRAIN SMARTER AND FASTER THAN BEFORE</span>
+                    <span>TREINE MAIS INTELIGENTE E MAIS RÁPIDO DO QUE ANTES</span>
                 </div>
 
                 <div>
                     <img src={tick} alt="" />
-                    <span>FREE PROGRAM FOR NEW MEMBER</span>
+                    <span>PROGRAMA GRATUITO PARA NOVOS MEMBROS</span>
                 </div>
 
                 <div>
                     <img src={tick} alt="" />
-                    <span>RELIABLE PARTNERS</span>
+                    <span>PARCEIROS CONFIÁVEIS</span>
                 </div>
             </div>
             <span style={{color: 'var(--gray)',
-    fontWeight: 'normal',}}>OUR PARTNERS</span>
+    fontWeight: 'normal',}}>NOSSOS PARCEIROS</span>
 
     <div className="partners">
         <img src={nb} alt="" />

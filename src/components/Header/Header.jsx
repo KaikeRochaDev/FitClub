@@ -8,11 +8,11 @@ const Header = () => {
         <img className='logo' src={Logo} alt="Logo The Fit Club" />
 
         <ul className='header-menu'>
-            <li><a href="#hero">Home</a></li>
-            <li><a href="#programs">Programs</a></li>
-            <li><a href="#reasons">Why us</a></li>
-            <li><a href="#plans">Plans</a></li>
-            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#hero">Início</a></li>
+            <li><a href="#programs">Programas</a></li>
+            <li><a href="#reasons">Por que nos escolher</a></li>
+            <li><a href="#plans">Planos</a></li>
+            <li><a href="#testimonials">Depoimentos</a></li>
         </ul>
     </div>
   )
